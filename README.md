@@ -9,6 +9,6 @@ Demo project to practice git commands during Hackeve
 4. Open ```skeleton.py```
 5. Start Hacking in teams of 3!!
 
-Hi the hackeve has started !!
+Hi, the hackeve has started !!
 
 #####  Note : Make sure that each of you take up one of the three sub questions / defined functions
